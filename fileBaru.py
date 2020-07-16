@@ -1,3 +1,3 @@
-#Ini Komentar pada branch testingmaster
+#Ini Komentar pada branch testing3
 
-print('Ini branch master')
+print('Ini edit branch testing3')
